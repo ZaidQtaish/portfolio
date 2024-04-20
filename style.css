@@ -241,15 +241,21 @@ fieldset {
 
     .container {
         flex-direction: column;
-        margin: 5% 10%;
+        margin: 5% 5%;
     }
 
     .info {
-        margin-top: 50px;
+        margin-top: 20px; 
     }
 
     .social-flex {
-        margin-left: 100px;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 30px;
+    }
+
+    .proj-img {
+        margin: 5px auto 0;
     }
 }
 
